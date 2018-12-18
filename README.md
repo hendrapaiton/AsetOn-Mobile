@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/babeguru/AsetOn-Mobile.svg?branch=master)](https://travis-ci.org/babeguru/AsetOn-Mobile)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.io/babeguru/AsetOn-Mobile.svg)](http://hits.dwyl.io/babeguru/AsetOn-Mobile)
+[![Patreon](https://img.shields.io/badge/donations-Patreon-orange.svg)](https://www.patreon.com/babeguru)
+
 # AsetOn-Mobile
 
 >Asset Management System
