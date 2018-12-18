@@ -119,8 +119,3 @@ public class MainActivity extends AppCompatActivity {
 > Kelima, jalankan program untuk melihat hasilnya
 
 ![App](App.png)
-
-## Donasi
->Jika anda merasa proyek ini membantu anda, jangan sungkan untuk mendukungnya dengan memberikan sedikit donasi.
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6HBXH72JVPBSQ)
